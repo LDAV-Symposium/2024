@@ -14,7 +14,7 @@ and urban planning. The tools and approaches needed to mine, analyze, and
 visualize data at extreme scales can be fully realized only if there are
 end-to-end solutions, which demands collective, interdisciplinary efforts.
 
-<img id="teasers" src="assets/teasers23.png" />
+<!-- <img id="teasers" src="assets/teasers23.png" /> -->
 
 The 14th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be
 held in conjunction with IEEE VIS 2024, is specifically targeting methodological
