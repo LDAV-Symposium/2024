@@ -65,10 +65,7 @@ Short papers are a venue to report smaller contributions than full papers and sh
 The proceedings of the symposium will be published together with the VIS proceedings and via the IEEE Xplore Digital Library. 
 
 ## Best Paper
-The LDAV Program Committee will present a Best Paper award to the authors whose submission is deemed the strongest according to the reviewing criteria. This award will be announced in conjunction with VIS 2024.
-
-The Best Paper for IEEE LDAV will be published directly in IEEE Transactions on Visualization and Computer Graphics (TVCG).  Further, other excellent papers will be encouraged to submit journal versions of their work to TVCG (at least 30% new scientific/technical content), with reviewer continuity.
-
+The Best Paper for IEEE LDAV will be invited to submit an extended version of their work (at least 30% new scientific/technical content) to IEEE Transactions on Visualization and Computer Graphics (TVCG) with reviewer continuity. (The extended version of the paper must be submitted within three months of the LDAV event date.)
 
 ## Important Dates
 
