@@ -62,7 +62,7 @@ Hongfeng Yu
 
 ## Program Committee
 
-<!-- <div class="left"> -->
+<div class="left">
 
 Wes Bethel
 : San Francisco State University
@@ -91,9 +91,6 @@ Kelly Gaither
 Tim Gerrits
 : RWTH Aachen University
 
-<!-- Pascal Grosset  -->
-<!-- : Los Alamos National Laboratory -->
-
 Hanqi Guo
 : The Ohio State University
 
@@ -102,9 +99,6 @@ Markus Hadwiger
 
 Jun Han
 : The Chinese University of Hong Kong
-
-<!-- Joseph Insley  -->
-<!-- : Argonne National Laboratory -->
 
 Won-Ki Jeong
 : Korea University
@@ -115,15 +109,14 @@ Ming Jiang
 James Klosowski
 : AT&T Labs Research
 
+</div>
+<div class="right">
+
 Aaron Knoll
 : Advanced Micro Devices
 
 Kwan-Liu Ma
 : University of California at Davis
-
-<!-- </div> -->
-<!-- <div class="right"> -->
-
 
 Victor Mateevitsi
 : Argonne National Laboratory
@@ -161,22 +154,7 @@ David Thompson
 Will Usher
 : Intel
 
-<!-- Qi Wu -->
-<!-- : University of California at Davis -->
-
 Tom Vierjahn
 : Westphalian University of Applied Sciences
 
-<!-- Pascal Grosset -->
-<!-- : Los Alamos National Laboratory -->
-
-<!-- Joseph Insley  -->
-<!-- : Argonne National Laboratory -->
-
-<!-- Nicole Marsaglia -->
-<!-- : Lawrence Livermore National Laboratory -->
-
-<!-- Hyungman Park -->
-<!-- : Apple -->
-
-<!-- </div> -->
+</div>
