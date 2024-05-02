@@ -60,90 +60,123 @@ Hongfeng Yu
 
 </div>
 
-<!-- ## Program Committee -->
+## Program Committee
 
 <!-- <div class="left"> -->
 
-<!-- Mark Bolstad  -->
-<!-- : Sandia National Laboratories -->
+Wes Bethel
+: San Francisco State University
 
-<!-- Hamish Carr  -->
-<!-- : University of Leeds -->
+Mark Bolstad
+: Sandia National Laboratories
 
-<!-- Warren Davis IV  -->
-<!-- : Sandia National Laboratories -->
+Roxana Bujack
+: Los Alamos National Laboratory
 
-<!-- Soumya Dutta  -->
-<!-- : Indian Institute of Technology, Kanpur (IITK) -->
+Hamish Carr
+: University of Leeds
 
-<!-- Takanori Fujiwara  -->
-<!-- : Linköping University -->
+Warren Davis IV
+: Sandia National Laboratories
 
-<!-- Tim Gerrits  -->
-<!-- : RWTH Aachen University -->
+Soumya Dutta
+: Indian Institute of Technology, Kanpur (IITK)
+
+Takanori Fujiwara
+: Linköping University
+
+Kelly Gaither
+: Texas Advanced Computing Center
+
+Tim Gerrits
+: RWTH Aachen University
 
 <!-- Pascal Grosset  -->
 <!-- : Los Alamos National Laboratory -->
 
-<!-- Hanqi Guo  -->
-<!-- : The Ohio State University -->
+Hanqi Guo
+: The Ohio State University
 
-<!-- Markus Hadwiger  -->
-<!-- : King Abdullah University of Science and Technology -->
+Markus Hadwiger
+: King Abdullah University of Science and Technology
+
+Jun Han
+: The Chinese University of Hong Kong
 
 <!-- Joseph Insley  -->
 <!-- : Argonne National Laboratory -->
 
-<!-- Won-Ki Jeong  -->
-<!-- : Korea University -->
+Won-Ki Jeong
+: Korea University
 
-<!-- Ming Jiang  -->
-<!-- : Lawrence Livermore National Laboratory -->
+Ming Jiang
+: Lawrence Livermore National Laboratory
 
-<!-- Aaron Knoll  -->
-<!-- : Advanced Micro Devices -->
+James Klosowski
+: AT&T Labs Research
 
-<!-- Kwan-Liu Ma  -->
-<!-- : University of California at Davis -->
+Aaron Knoll
+: Advanced Micro Devices
+
+Kwan-Liu Ma
+: University of California at Davis
+
 <!-- </div> -->
 <!-- <div class="right"> -->
-<!-- Nicole Marsaglia  -->
-<!-- : Lawrence Livermore National Laboratory -->
 
-<!-- Victor Mateevitsi  -->
-<!-- : Argonne National Laboratory -->
 
-<!-- Patrick O'Leary  -->
-<!-- : Kitware -->
+Victor Mateevitsi
+: Argonne National Laboratory
 
-<!-- Hyungman Park  -->
-<!-- : University of Texas at Austin -->
+Patrick O'Leary
+: Kitware
 
-<!-- David Pugmire  -->
-<!-- : Oak Ridge National Laboratory -->
+John Pratchett
+: Los Alamos National Laboratory
 
-<!-- Bruno Raffin  -->
-<!-- : INRIA -->
+David Pugmire
+: Oak Ridge National Laboratory
 
-<!-- David Rogers  -->
+Bruno Raffin
+: INRIA
+
+David Rogers
+: Los Alamos National Laboratory
+
+Filip Sadlo
+: Heidelberg University
+
+Sudhanshu Sane
+: Luminary Cloud
+
+Timothy Shead
+: Sandia National Laboratories
+
+Han-Wei Shen
+: The Ohio State University
+
+David Thompson
+: Kitware
+
+Will Usher
+: Intel
+
+<!-- Qi Wu -->
+<!-- : University of California at Davis -->
+
+Tom Vierjahn
+: Westphalian University of Applied Sciences
+
+<!-- Pascal Grosset -->
 <!-- : Los Alamos National Laboratory -->
 
-<!-- Filip Sadlo  -->
-<!-- : Heidelberg University -->
+<!-- Joseph Insley  -->
+<!-- : Argonne National Laboratory -->
 
-<!-- Timothy Shead  -->
-<!-- : Sandia National Laboratories -->
+<!-- Nicole Marsaglia -->
+<!-- : Lawrence Livermore National Laboratory -->
 
-<!-- Han-Wei Shen  -->
-<!-- : The Ohio State University -->
-
-<!-- David Thompson  -->
-<!-- : Kitware -->
-
-<!-- Will Usher  -->
-<!-- : Intel -->
-
-<!-- Qi Wu  -->
-<!-- : University of California at Davis -->
+<!-- Hyungman Park -->
+<!-- : Apple -->
 
 <!-- </div> -->
