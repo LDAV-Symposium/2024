@@ -60,6 +60,8 @@ Hongfeng Yu
 
 </div>
 
+<!-- 
+
 ## Program Committee
 
 <div class="left">
@@ -158,3 +160,4 @@ Tom Vierjahn
 : Westphalian University of Applied Sciences
 
 </div>
+-->
