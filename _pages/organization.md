@@ -60,14 +60,12 @@ Hongfeng Yu
 
 </div>
 
-<!-- 
-
 ## Program Committee
 
 <div class="left">
 
-Wes Bethel
-: San Francisco State University
+Tim Biedert
+: NVIDIA
 
 Mark Bolstad
 : Sandia National Laboratories
@@ -78,29 +76,26 @@ Roxana Bujack
 Hamish Carr
 : University of Leeds
 
-Warren Davis IV
-: Sandia National Laboratories
-
 Soumya Dutta
-: Indian Institute of Technology, Kanpur (IITK)
+: Indian Institute of Technology Kanpur (IIT Kanpur)
 
 Takanori Fujiwara
 : Linköping University
 
-Kelly Gaither
-: Texas Advanced Computing Center
-
 Tim Gerrits
 : RWTH Aachen University
 
-Hanqi Guo
-: The Ohio State University
+Pascal Grosset
+: Los Alamos National Laboratory
 
 Markus Hadwiger
-: King Abdullah University of Science and Technology
+: KAUST
 
 Jun Han
-: The Chinese University of Hong Kong
+: The Chinese University of Hong Kong, Shenzhen
+
+Joseph Insley
+: Argonne National Laboratory
 
 Won-Ki Jeong
 : Korea University
@@ -111,29 +106,29 @@ Ming Jiang
 James Klosowski
 : AT&T Labs Research
 
-</div>
-<div class="right">
-
-Aaron Knoll
-: Advanced Micro Devices
+Matthew Larsen
+: Lawrence Livermore National Laboratory
 
 Kwan-Liu Ma
 : University of California at Davis
 
+Nicole Marsaglia
+: Lawrence Livermore National Laboratory
+
 Victor Mateevitsi
 : Argonne National Laboratory
 
-Patrick O'Leary
-: Kitware
+Patrick	O'Leary
+: Kitware, Inc.
 
-John Pratchett
+Hyungman Park
+: Apple
+
+John Patchett
 : Los Alamos National Laboratory
 
 David Pugmire
 : Oak Ridge National Laboratory
-
-Bruno Raffin
-: INRIA
 
 David Rogers
 : Los Alamos National Laboratory
@@ -142,22 +137,25 @@ Filip Sadlo
 : Heidelberg University
 
 Sudhanshu Sane
-: Luminary Cloud
+: University of Oregon
+
+Andrea Schnorr
+: RPTU Kaiserslautern-Landau
 
 Timothy Shead
 : Sandia National Laboratories
 
-Han-Wei Shen
-: The Ohio State University
-
 David Thompson
-: Kitware
+: Kitware, Inc.
+
+Terece Turton
+: Los Alamos National Laboratory
 
 Will Usher
-: Intel
+: Luminary Cloud
 
-Tom Vierjahn
-: Westphalian University of Applied Sciences
+Qi Wu
+: University of California, Davis
 
 </div>
 -->
