@@ -63,7 +63,6 @@ Hongfeng Yu
 ## Program Committee
 
 <div class="left">
-
 Tim Biedert
 : NVIDIA
 
@@ -112,6 +111,9 @@ Matthew Larsen
 Kwan-Liu Ma
 : University of California at Davis
 
+</div>
+
+<div class="right">
 Nicole Marsaglia
 : Lawrence Livermore National Laboratory
 
