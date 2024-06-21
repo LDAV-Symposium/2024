@@ -44,15 +44,15 @@ Accepted posters will receive links with instructions to upload video previews a
 
 ## Important Dates
 
-TBD
-<!-- Two-page Poster Paper Submission -->
-<!-- : August 17, 2024, 11:59 PM (AOE) -->
 
-<!-- Author Notification -->
-<!-- : August 18, 2024 -->
+Two-page Poster Paper Submission
+: August 15, 2024, 11:59 PM (AOE)
 
-<!-- Camera-Ready Deadline -->
-<!-- : August 21, 2024 -->
+Author Notification
+: August 19, 2024
+
+Camera-Ready Deadline 
+: August 23, 2024 
 
 <!-- Video Preview deadline -->
 <!-- : September 1, 2024 -->
