@@ -32,7 +32,7 @@ Camera-Ready Deadline
 
 ## Symposium
 
-Monday, October 13, 2024
+Sunday, October 13, 2024
 <!-- 9am-12pm -->
 
 
