@@ -32,7 +32,7 @@ Gunther Weber
 Soumya Dutta
 :  Indian Institute of Technology, Kanpur (IITK)
 
-Nicole Marsiglia
+Nicole Marsaglia
 : Lawrence Livermore National Laboratory
 
 </div>
