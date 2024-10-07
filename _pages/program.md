@@ -32,51 +32,51 @@ title: Program
     </td>
   </tr>
 
-  <tr>
-    <td>2:45pm &ndash; 3:15pm</td>
-    <td>Break</td>
-  </tr>
-  <tr>
-    <td>3:15pm &ndash; 4:30pm</td>
-    <td>
-      <h4>Papers Session</h4>
-      <!-- (Session Chair: Kristi Potter) -->
-    </td>
-  </tr>
-  <tr>
-   <td>3:15pm</td>
-   <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br>
-   <!-- Manish Mathai, Mathew Larsen, Hank Childs -->
-    </td>
-  </tr>
-  <tr>
-    <td>3:29pm</td>
-    <td>
-	Standardized Data-Parallel Rendering Using ANARI <br>
-     <!-- Tom Peterka, David Lenz, Iulian Grindeanu, Vijay Mahadevan --> </td>
-  </tr>
-  <tr>
-    <td>3:43pm</td>
-    <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br> 
-	<!-- Ayman Yousef, Amanda Randles, Erik Draeger --> 
-	</td>
-  </tr>
-  <tr>
-    <td>3:57pm</td>
-    <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
-  </tr>
-  <tr>
-    <td>4:11pm</td>
-    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
-  </tr>
+  <!-- <tr> -->
+  <!--   <td>2:45pm &ndash; 3:15pm</td> -->
+  <!--   <td>Break</td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td>3:15pm &ndash; 4:30pm</td> -->
+  <!--   <td> -->
+  <!--     <h4>Papers Session</h4> -->
+  <!--     <\!-- (Session Chair: Kristi Potter) -\-> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--  <td>3:15pm</td> -->
+  <!--  <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br> -->
+  <!--  <\!-- Manish Mathai, Mathew Larsen, Hank Childs -\-> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td>3:29pm</td> -->
+  <!--   <td> -->
+  <!-- 	Standardized Data-Parallel Rendering Using ANARI <br> -->
+  <!--    <\!-- Tom Peterka, David Lenz, Iulian Grindeanu, Vijay Mahadevan -\-> </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td>3:43pm</td> -->
+  <!--   <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br>  -->
+  <!-- 	<\!-- Ayman Yousef, Amanda Randles, Erik Draeger -\->  -->
+  <!-- 	</td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td>3:57pm</td> -->
+  <!--   <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> <\!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen -\-> </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td>4:11pm</td> -->
+  <!--   <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> <\!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen -\-> </td> -->
+  <!-- </tr> -->
  
   
-  <tr>
-    <td>4:25pm</td>
-    <td>
-      Closing Remarks
-    </td>
-  </tr>
+  <!-- <tr> -->
+  <!--   <td>4:25pm</td> -->
+  <!--   <td> -->
+  <!--     Closing Remarks -->
+  <!--   </td> -->
+  <!-- </tr> -->
 </table>
 
 
