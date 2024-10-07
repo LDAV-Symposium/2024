@@ -14,7 +14,8 @@ title: Program
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <!-- <td>1:40pm &ndash; 2:30pm</td> -->
+    <td>1:40pm &ndash; 2:30pm</td>
+	<td> Keynote Presentation: Jefferson Amstutz </td>
     <!-- <td> -->
     <!--   <h4>Keynote Presentation</h4> -->
 	<!--   Jefferson Amstutz -->
@@ -25,9 +26,9 @@ title: Program
   <tr>
     <td>2:30pm &ndash; 2:45pm</td>
     <td> <!-- <b>Best Paper</b>-->
-	<br>
+	<!-- <br> -->
       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
-	<br/>
+	<!-- <br/> -->
       <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
     </td>
   </tr>
