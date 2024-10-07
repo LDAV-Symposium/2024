@@ -15,7 +15,7 @@ title: Program
   </tr>
   <tr>
     <td>1:40pm &ndash; 2:30pm</td>
-	<td> <h4>Keynote Presentation</h4>  <br>Jefferson Amstutz </br></td>
+	<td> <h4>Keynote Presentation</h4>  <br> Jefferson Amstutz</td>
     <!-- <td> -->
     <!--   <h4>Keynote Presentation</h4> -->
 	<!--   Jefferson Amstutz -->
