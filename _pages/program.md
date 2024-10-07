@@ -14,23 +14,23 @@ title: Program
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>1:40pm &ndash; 2:30pm</td>
-    <td>
-      <h4>Keynote Presentation</h4>
-	  Jefferson Amstutz
-	  <!-- <br/> -->
-    <!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -->
+    <!-- <td>1:40pm &ndash; 2:30pm</td> -->
+    <!-- <td> -->
+    <!--   <h4>Keynote Presentation</h4> -->
+	<!--   Jefferson Amstutz -->
+	<!--   <\!-- <br/> -\-> -->
+    <!-- <\!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -\-> -->
+    <!-- </td> -->
+  </tr>
+  <tr>
+    <td>2:30pm &ndash; 2:45pm</td>
+    <td> <!-- <b>Best Paper</b>-->
+	<br>
+      Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
+	<br/>
+      <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
     </td>
-  <!-- </tr> -->
-  <!-- <tr> -->
-  <!--   <td>9:55am &ndash; 10:15am</td> -->
-  <!--   <td> <\!-- <b>Best Paper</b>-\-> -->
-  <!-- 	<br> -->
-  <!--     Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats -->
-  <!-- 	<br/> -->
-  <!--     <\!-- Will Usher, Landon Dyken, Sidarth Kumar -\-> -->
-  <!--   </td> -->
-  <!-- </tr> -->
+  </tr>
 
   <tr>
     <td>2:45pm &ndash; 3:15pm</td>
