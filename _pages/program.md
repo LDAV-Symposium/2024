@@ -24,7 +24,7 @@ title: Program
 	  <!-- <br/> -->
     <!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -->
     <!-- </td> -->
-  </tr>
+  <!-- </tr> -->
   <tr>
     <td>9:55am &ndash; 10:15am</td>
     <td> <!-- <b>Best Paper</b>-->
