@@ -9,10 +9,10 @@ title: Program
 (Eastern Daylight Time GMT-4)
 
 <table class="program">
-  <!-- <tr> -->
-  <!--   <td>1:30pm &ndash; 1:40pm</td> -->
-  <!--   <td>Opening Remarks</td> -->
-  <!-- </tr> -->
+  <tr>
+    <td>1:30pm &ndash; 1:40pm</td>
+    <td>Opening Remarks</td>
+  </tr>
   <!-- <tr> -->
   <!--   <td>1:40pm &ndash; 2:30pm</td> -->
   <!--   <td> -->
