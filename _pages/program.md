@@ -5,10 +5,84 @@ title: Program
 
 # Program
 
-TBD
+**Sunday, October 23, 2023**
+(Eastern Daylight Time GMT-4)
 
-<!-- **Monday, October 23, 2023** -->
-<!-- (Australian Eastern Standard Time GMT+10) -->
+<table class="program">
+  <tr>
+    <td>1:30pm &ndash; 1:40pm</td>
+    <td>
+      Opening Remarks<br/>
+    </td>
+  </tr>
+  <tr>
+    <td>1:40pm &ndash; 2:30pm</td>
+    <td>
+      <h4>Keynote Presentation
+      </h4>
+	  Jefferson Amstutz
+	  <!-- <br/> -->
+    <!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -->
+    <!-- </td> -->
+  </tr>
+  <tr>
+    <td>9:55am &ndash; 10:15am</td>
+    <td> <!-- <b>Best Paper</b>-->
+	<br>
+      Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
+	<br/>
+      <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
+    </td>
+  </tr>
+
+  <tr>
+    <td>2:45pm &ndash; 3:15pm</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>3:15pm &ndash; 4:30pm</td>
+    <td>
+      <h4>Papers Session</h4>
+      <!-- (Session Chair: Kristi Potter) -->
+    </td>
+  </tr>
+  <tr>
+   <td>3:15pm</td>
+   <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br>
+   <!-- Manish Mathai, Mathew Larsen, Hank Childs -->
+    </td>
+  </tr>
+  <tr>
+    <td>3:29pm</td>
+    <td>
+	Standardized Data-Parallel Rendering Using ANARI <br>
+     <!-- Tom Peterka, David Lenz, Iulian Grindeanu, Vijay Mahadevan --> </td>
+  </tr>
+  <tr>
+    <td>3:43pm</td>
+    <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br> 
+	<!-- Ayman Yousef, Amanda Randles, Erik Draeger --> 
+	</td>
+  </tr>
+  <tr>
+    <td>3:57pm</td>
+    <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
+  </tr>
+  <tr>
+    <td>4:11pm</td>
+    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
+  </tr>
+ 
+  
+  <tr>
+    <td>4:25pm</td>
+    <td>
+      Closing Remarks
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- <table class="program"> -->
 <!--   <tr> -->
@@ -46,7 +120,7 @@ TBD
 <!--     </td> -->
 <!--   </tr> -->
 <!--   <tr> -->
-<!--    <td>10:45-11:05</td>  -->
+<!--    <td>10:45-11:05</td> -->
 <!--    <td>  A Distributed-Memory Parallel Approach for Volume Rendering with       Shadows<br> -->
 <!--    Manish Mathai, Mathew Larsen, Hank Childs -->
 <!--     </td> -->
@@ -58,11 +132,11 @@ TBD
 <!--      Tom Peterka, David Lenz, Iulian Grindeanu, Vijay Mahadevan </td> -->
 <!--   </tr> -->
 <!--   <tr> -->
-<!--     <td>11:25-11:40</td>   -->
+<!--     <td>11:25-11:40</td> -->
 <!--     <td>Low-Cost Post Hoc Reconstruction of HPC Simulations at Full Resolution (Short Paper) <br> Ayman Yousef, Amanda Randles, Erik Draeger </td> -->
 <!--   </tr> -->
 <!--   <tr> -->
-<!--     <td>11:40-11:55</td>   -->
+<!--     <td>11:40-11:55</td> -->
 <!--     <td>Sub-Linear Time Sampling Approach for Large-Scale Data Visualization Using Reinforcement Learning (Short Paper) <br> Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen </td> -->
 <!--   </tr> -->
  
@@ -74,6 +148,7 @@ TBD
 <!--     </td> -->
 <!--   </tr> -->
 <!-- </table> -->
+
 
 <!-- --- -->
 
