@@ -11,19 +11,16 @@ title: Program
 <table class="program">
   <tr>
     <td>1:30pm &ndash; 1:40pm</td>
-    <td>
-      Opening Remarks<br/>
-    </td>
+    <td>Opening Remarks</td>
   </tr>
   <tr>
     <td>1:40pm &ndash; 2:30pm</td>
     <td>
-      <h4>Keynote Presentation
-      </h4>
+      <h4>Keynote Presentation</h4>
 	  Jefferson Amstutz
 	  <!-- <br/> -->
     <!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -->
-    <!-- </td> -->
+    </td>
   <!-- </tr> -->
   <tr>
     <td>9:55am &ndash; 10:15am</td>
