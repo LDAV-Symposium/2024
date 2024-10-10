@@ -15,7 +15,7 @@ title: Program
   </tr>
   <tr>
     <td>1:40pm &ndash; 2:30pm</td>
-	<td> <h4>Keynote Presentation</h4>  <br> Jefferson Amstutz</td>
+	<td> <h4>Keynote Presentation</h4>  <br><ins>Jefferson Amstutz</ins></td>
     <!-- <td> -->
     <!--   <h4>Keynote Presentation</h4> -->
 	<!--   Jefferson Amstutz -->
@@ -29,7 +29,7 @@ title: Program
 	<!-- <br> -->
       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
 	<!-- <br/> -->
-	<br>Aashish Panta, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci
+	<br><ins>Aashish Panta</ins>, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci
       <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
     </td>
   </tr>
@@ -48,29 +48,29 @@ title: Program
   <tr>
    <td>3:15pm</td>
    <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br>
-   Stephan Olbrich, Andreas Beckert, Cécile Michel, Christian Schroer, Samaneh Ehteram, Andreas Schropp, Philipp Paetzold
+   Stephan Olbrich, <ins>Andreas Beckert</ins>, Cécile Michel, Christian Schroer, Samaneh Ehteram, Andreas Schropp, Philipp Paetzold
     </td>
   </tr>
   <tr>
     <td>3:29pm</td>
     <td>
 	Standardized Data-Parallel Rendering Using ANARI <br>
-     Ingo Wald, Stefan Zellmann, Jefferson Amstutz, Qi Wu, Kevin Shawn Griffin, Milan Jaroš, Stefan Wesner </td>
+     <ins>Ingo Wald</ins>, Stefan Zellmann, Jefferson Amstutz, Qi Wu, Kevin Shawn Griffin, Milan Jaroš, Stefan Wesner </td>
   </tr>
   <tr>
     <td>3:43pm</td>
     <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br>
-	Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
+	<ins>Jianxin Sun</ins>, David Lenz, Hongfeng Yu, Tom Peterka
 	</td>
   </tr>
   <tr>
     <td>3:57pm</td>
     <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> 
-	Luca Marcel Reichmann, David Hägele, Daniel Weiskopf </td>
+	<ins>Luca Marcel Reichmann</ins>, David Hägele, Daniel Weiskopf </td>
   </tr>
   <tr>
     <td>4:11pm</td>
-    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> Michael Will, Jonas Lukasczyk, Julien Tierny, Christoph Garth </td>
+    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br><ins>Michael Will</ins>, Jonas Lukasczyk, Julien Tierny, Christoph Garth </td>
   </tr>
  
   
