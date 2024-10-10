@@ -5,7 +5,7 @@ title: Program
 
 # Program
 
-**Sunday, October 23, 2023**
+**Sunday, October 13, 2024**
 (Eastern Daylight Time GMT-4)
 
 <table class="program">
