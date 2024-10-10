@@ -26,10 +26,10 @@ title: Program
   <tr>
     <td>2:30pm &ndash; 2:45pm</td>
     <td> <!-- <b>Best Paper</b>-->
-	<br>
+	<!-- <br> -->
       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
-	<br/>
-	Aashish Panta, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci
+	<!-- <br/> -->
+	<!-- Aashish Panta, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci -->
       <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
     </td>
   </tr>
