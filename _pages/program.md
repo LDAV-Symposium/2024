@@ -48,28 +48,29 @@ title: Program
   <tr>
    <td>3:15pm</td>
    <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br>
-   <!-- Manish Mathai, Mathew Larsen, Hank Childs -->
+   Stephan Olbrich, Andreas Beckert, Cécile Michel, Christian Schroer, Samaneh Ehteram, Andreas Schropp, Philipp Paetzold
     </td>
   </tr>
   <tr>
     <td>3:29pm</td>
     <td>
 	Standardized Data-Parallel Rendering Using ANARI <br>
-     <!-- Tom Peterka, David Lenz, Iulian Grindeanu, Vijay Mahadevan --> </td>
+     Ingo Wald, Stefan Zellmann, Jefferson Amstutz, Qi Wu, Kevin Shawn Griffin, Milan Jaroš, Stefan Wesner </td>
   </tr>
   <tr>
     <td>3:43pm</td>
     <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br>
-	<!-- Ayman Yousef, Amanda Randles, Erik Draeger -->
+	Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
 	</td>
   </tr>
   <tr>
     <td>3:57pm</td>
-    <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
+    <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> 
+	Luca Marcel Reichmann, David Hägele, Daniel Weiskopf </td>
   </tr>
   <tr>
     <td>4:11pm</td>
-    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> <!-- Ayan Biswas, Arindam Bhattacharya, Yi-Tang Chen, Han-Wei Shen --> </td>
+    <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br> Michael Will, Jonas Lukasczyk, Julien Tierny, Christoph Garth </td>
   </tr>
  
   
