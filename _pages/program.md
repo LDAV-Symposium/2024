@@ -10,11 +10,11 @@ title: Program
 
 <table class="program">
   <tr>
-    <td>1:30pm &ndash; 1:40pm</td>
+    <td>12:00pm &ndash; 12:10pm</td>
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>1:40pm &ndash; 2:30pm</td>
+    <td>12:10pm &ndash; 01:00pm</td>
 	<td> <h4>Keynote Presentation</h4>  <br><ins>Jefferson Amstutz</ins></td>
     <!-- <td> -->
     <!--   <h4>Keynote Presentation</h4> -->
@@ -24,7 +24,7 @@ title: Program
     <!-- </td> -->
   </tr>
   <tr>
-    <td>2:30pm &ndash; 2:45pm</td>
+    <td>01:00pm &ndash; 01:15pm</td>
     <td> <!-- <b>Best Paper</b>-->
 	<!-- <br> -->
       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
@@ -35,47 +35,47 @@ title: Program
   </tr>
 
   <tr>
-    <td>2:45pm &ndash; 3:15pm</td>
+    <td>01:15pm &ndash; 01:45pm</td>
     <td>Break</td>
   </tr>
   <tr>
-    <td>3:15pm &ndash; 4:30pm</td>
+    <td>01:45pm &ndash; 03:00pm</td>
     <td>
       <h4>Papers Session</h4>
       <!-- (Session Chair: Kristi Potter) -->
     </td>
   </tr>
   <tr>
-   <td>3:15pm</td>
+   <td>01:45pm</td>
    <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br>
    Stephan Olbrich, <ins>Andreas Beckert</ins>, Cécile Michel, Christian Schroer, Samaneh Ehteram, Andreas Schropp, Philipp Paetzold
     </td>
   </tr>
   <tr>
-    <td>3:29pm</td>
+    <td>01:59pm</td>
     <td>
 	Standardized Data-Parallel Rendering Using ANARI <br>
      <ins>Ingo Wald</ins>, Stefan Zellmann, Jefferson Amstutz, Qi Wu, Kevin Shawn Griffin, Milan Jaroš, Stefan Wesner </td>
   </tr>
   <tr>
-    <td>3:43pm</td>
+    <td>02:13pm</td>
     <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br>
 	<ins>Jianxin Sun</ins>, David Lenz, Hongfeng Yu, Tom Peterka
 	</td>
   </tr>
   <tr>
-    <td>3:57pm</td>
+    <td>02:27pm</td>
     <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br> 
 	<ins>Luca Marcel Reichmann</ins>, David Hägele, Daniel Weiskopf </td>
   </tr>
   <tr>
-    <td>4:11pm</td>
+    <td>02:41pm</td>
     <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br><ins>Michael Will</ins>, Jonas Lukasczyk, Julien Tierny, Christoph Garth </td>
   </tr>
  
   
   <tr>
-    <td>4:25pm</td>
+    <td>02:55pm</td>
     <td>
       Closing Remarks
     </td>
