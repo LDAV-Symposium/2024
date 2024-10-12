@@ -11,26 +11,24 @@ title: Program
 <table class="program">
   <tr>
     <td>12:00pm &ndash; 12:10pm</td>
-    <td>Opening Remarks</td>
+    <td>Opening Remarks (Silvio Rizzi)</td>
   </tr>
   <tr>
     <td>12:10pm &ndash; 01:00pm</td>
-	<td> <h4>Keynote Presentation</h4>  <br><ins>Jefferson Amstutz</ins></td>
-    <!-- <td> -->
-    <!--   <h4>Keynote Presentation</h4> -->
-	<!--   Jefferson Amstutz -->
-	<!--   <\!-- <br/> -\-> -->
-    <!-- <\!--   <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -\-> -->
-    <!-- </td> -->
+    <td>
+      <h4>Keynote Presentation</h4>
+      Jefferson Amstutz
+      <br/>
+      <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
+    </td>
   </tr>
   <tr>
     <td>01:00pm &ndash; 01:15pm</td>
-    <td> <!-- <b>Best Paper</b>-->
-	<!-- <br> -->
+    <td> <b>Best Paper</b>
+      <br>
       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats
 	<!-- <br/> -->
-	<br><ins>Aashish Panta</ins>, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci
-      <!-- Will Usher, Landon Dyken, Sidarth Kumar -->
+    <br><ins>Aashish Panta</ins>, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci
     </td>
   </tr>
 
@@ -42,7 +40,7 @@ title: Program
     <td>01:45pm &ndash; 03:00pm</td>
     <td>
       <h4>Papers Session</h4>
-      <!-- (Session Chair: Kristi Potter) -->
+      (Session Chair: Ken Moreland)
     </td>
   </tr>
   <tr>
@@ -77,7 +75,7 @@ title: Program
   <tr>
     <td>02:55pm</td>
     <td>
-      Closing Remarks
+      Closing Remarks (Gunther H. Weber)
     </td>
   </tr>
 </table>
@@ -152,16 +150,16 @@ title: Program
 
 <!-- --- -->
 
-<!-- # Keynote -->
+# Keynote
 
-<!-- **Enabling Visualization at the Exascale with VTK-m** <br/> -->
-<!-- *Ken Moreland, Oakridge National Laboratory* -->
+**Scalable 3D Rendering as a Commodity** <br/>
+*Jefferson Amstutz, NVIDIA*
 
-<!-- The last decade has seen a disruptive change in the construction of High-Performance Computing (HPC) systems. Driven by the economics of scaling up the compute throughput of these large devices, most of the largest HPC machines now leverage hardware accelerators, usually in the form of a GPU, that achieves high computational throughput through many coordinated parallel threads. The US Department of Energy’s Exascale Computing Program (ECP) invested heavily in updating HPC software to operate on these new HPC designs. The strategy for updating HPC visualization software centered around VTK-m, a flexible framework to simplify the implementation of visualization algorithms on GPUs and similar devices. This presentation discusses how VTK-m defines visualization algorithms, how these algorithms are ported across multiple platforms, and how VTK-m is integrated into distributed-parallel visualization software to address the largest scale visualization challenges once again. -->
+Rendering is an essential component of visualizing large 3D data. Over the years there have been a plethora of research innovations that have moved the state-of-the-art in rendering forward, even for dealing with the ever-growing size of data we need to visualize. However, there hasn’t been a compelling way to ensure that future 3D rendering innovations can make it into tools that end-users can leverage. This talk will go through a brief retrospective of how innovations for rendering large data have come-and-gone and propose a way forward for us to better leverage future innovations in production scale 3D rendering for visualization.
 
-<!-- ## Speaker -->
-<!-- <img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/kenHeadshot.jpeg" /> -->
-<!-- Dr. Ken Moreland is a senior research scientist at Oak Ridge Laboratory. He received BS degrees in computer science and in electrical engineering from the New Mexico Institute of Mining and Technology in 1997. He received MS and Ph.D. degrees in computer science from the University of New Mexico in 2000 and 2004, respectively. Dr. Moreland specializes in large-scale visualization and graphics and has played an active role in the development of several HPC products including ParaView, VTK, IceT, Catalyst, Dax, and VTK-m. -->
+## Speaker
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/jeffHeadshot.jpeg" />
+Jefferson Amstutz is a Senior Developer Technology Engineer at NVIDIA and the current chair of the Khronos ANARI Working Group. Jeff loves all things programming and ray tracing: code craftsmanship, high performance, and compelling visuals. Prior to joining NVIDIA, Jeff was a Visualization Software Engineer at Intel and a HPC Software Engineer at SURVICE Engineering.
 
 <!-- # Posters -->
 
